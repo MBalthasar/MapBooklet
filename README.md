@@ -1,5 +1,5 @@
 # MapBooklet
-A toolbox for manipulating spatial data.
+R package for generating map booklets.
 
 ## Installation
 
