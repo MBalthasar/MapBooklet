@@ -69,4 +69,6 @@ my_booklet <- BookletMaker(user_ggplot = my_plot,
                            user_buffer = 0,
                            add_scale = TRUE,
                            add_north = TRUE)
-´´´
+```
+
+![](Images/Overview.jpg)
