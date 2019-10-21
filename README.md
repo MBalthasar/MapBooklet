@@ -77,4 +77,4 @@ This results in a map booklet with an overview map...
 
 ... and 16 tiles:
 
-<img src="images/Tile.jpg" width=1000>
+<img src="images/Tile.jpg" width=800>
