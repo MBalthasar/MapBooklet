@@ -70,10 +70,11 @@ my_booklet <- BookletMaker(user_ggplot = my_plot,
                            add_scale = TRUE,
                            add_north = TRUE)
 ```
+
 This results in a map booklet with an overview map...
 
 <img src="images/Overview.jpg" width=1000>
 
 ... and 16 tiles:
 
-![](images/Tile.jpg)
+<img src="images/Tile.jpg" width=1000>
